@@ -1,4 +1,4 @@
-# SQL_project
+# SQL_Exploration_project
 Query of the latest dataset of Covid
 
 
